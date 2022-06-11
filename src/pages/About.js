@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import "./About.css";
-import AlexonAbreuHeadshot from "../assets/AlexonAbreuHeadshot.jpg";
+// import AlexonAbreuHeadshot from "../assets/AlexonAbreuHeadshot.jpg";
 
 
 export default class About extends Component {
